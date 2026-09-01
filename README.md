@@ -1,8 +1,25 @@
+<!-- ======================= BANNER ======================= -->
+
+<p align="center">
+  <img 
+    src="./ChatGPT%20Image%20Sep%201%2C%202026%2C%2010_20_44%20PM.png" 
+    width="100%" 
+    alt="Dipu Ram Roy Banner"
+  />
+</p>
+
+<!-- ======================= INTRO ======================= -->
+
 # Hi 👋, I'm Dipu Ram Roy
 
 ### Full Stack Web Developer | MERN Stack Developer | Computer Science & Technology Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipu-ram&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=dipu-ram&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
@@ -12,7 +29,7 @@ I'm **Dipu Ram Roy**, a passionate **Full Stack Web Developer** and **Computer S
 
 - 🔭 I'm currently working on **Web Development & MERN Stack Projects**
 - 🌱 I'm currently learning **React.js, Node.js, Express.js & MongoDB**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dipu-ram)
+- 👨‍💻 All of my projects are available on **GitHub**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Tailwind CSS & Bootstrap**
 - 🧩 I enjoy solving programming problems and building real-world projects
 - 🚀 My goal is to become a professional **Full Stack MERN Developer**
@@ -60,15 +77,17 @@ I'm **Dipu Ram Roy**, a passionate **Full Stack Web Developer** and **Computer S
 
 ### 🌐 DEVCONF 2026
 
-A modern and responsive conference landing page.
+A modern and responsive conference landing page built with HTML, CSS and JavaScript.
 
 **Technologies:**
+
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome
 
-🔗 [View My GitHub](https://github.com/dipu-ram)
+🔗 **GitHub:**  
+https://github.com/dipu-ram
 
 ---
 
@@ -77,30 +96,59 @@ A modern and responsive conference landing page.
 A collection of JavaScript coding challenges and problem-solving projects.
 
 **Topics:**
+
 - Functions
 - Arrays
 - Objects
 - Loops
 - String Manipulation
 - Array Methods
+- Conditional Logic
+- Debugging
 - Problem Solving
 
-🔗 [View Repositories](https://github.com/dipu-ram?tab=repositories)
+🔗 **Repositories:**  
+https://github.com/dipu-ram?tab=repositories
+
+---
+
+### ⚛️ MERN Stack Projects
+
+Currently building projects using the **MERN Stack** to improve my Full Stack development skills.
+
+**Tech Stack:**
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+🔗 **Repositories:**  
+https://github.com/dipu-ram?tab=repositories
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipu-ram&show_icons=true&theme=tokyonight&hide_border=true" alt="Dipu's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dipu-ram&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
+    alt="Dipu's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu-ram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ram&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    alt="Dipu's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dipu-ram&theme=tokyonight&hide_border=true" 
+    alt="Dipu's GitHub Streak"
+  />
 </p>
 
 ---
@@ -108,8 +156,24 @@ A collection of JavaScript coding challenges and problem-solving projects.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ram&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ram&theme=tokyo-night&hide_border=true" 
+    alt="Dipu's GitHub Activity"
+  />
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🔐 Authentication
+- 🌐 REST API
+- 🚀 MERN Stack
+- 🧩 Problem Solving
 
 ---
 
@@ -120,40 +184,52 @@ A collection of JavaScript coding challenges and problem-solving projects.
 - 🔹 Improve JavaScript & React.js skills
 - 🔹 Master Node.js & Express.js
 - 🔹 Learn advanced MongoDB
-- 🔹 Contribute to open-source projects
+- 🔹 Contribute to Open Source
 - 🔹 Get an opportunity as a Web/MERN Stack Developer
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/dipu-ram">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="mailto:dipux2016@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="YOUR_FACEBOOK_URL">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 **Email:** dipux2016@gmail.com
 
-💻 **GitHub:** https://github.com/dipu-ram
+💻 **GitHub:** dipu-ram
 
 🔗 **LinkedIn:** YOUR_LINKEDIN_URL
 
@@ -161,8 +237,14 @@ A collection of JavaScript coding challenges and problem-solving projects.
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
   <b>Let's build something amazing together 🚀</b>
+</p>
+
+<p align="center">
+  💻 Code • 🚀 Build • 🌱 Learn • 🔥 Grow
 </p>
