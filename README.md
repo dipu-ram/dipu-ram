@@ -161,8 +161,40 @@ https://github.com/dipu-ram?tab=repositories
     alt="Dipu's GitHub Activity"
   />
 </p>
+## 🔗 Github Stats -
 
----
+<!-- 1. Contribution Graph Card -->
+[![Dipu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipu-ram&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!-- 2. GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dipu-ram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+
+<!-- 3. Most Used Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ram&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</a>
+
+---## 🔗 Github Stats -
+
+<!-- 1. Contribution Graph Card -->
+[![Dipu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipu-ram&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!-- 2. GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dipu-ram&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+
+<!-- 3. Most Used Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ram&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</a>
+
 
 ## 🌱 Currently Learning
 
