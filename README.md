@@ -1,12 +1,10 @@
-<!-- ======================= BANNER ======================= -->
-
+<!-- ======================= BANNAR======================= -->
+<h1 align="center">Hi 👋, I'm Dipu Ram </h1>
 <p align="center">
   <img 
-    src="./dipucode.gif" 
+    src="./Deepfolio1.gif" 
     width="800px"   
   />
-
-<h1 align="center">Hi 👋, I'm Dipu Ram </h1>
 
 <p align="center">
   <img 
@@ -83,37 +81,24 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 ---
-
-
-## 💼 What I'm Learning to Build
-
-- 🌐 Responsive Web Applications
-- ⚛️ React-based Frontend Applications
-- 📊 Dashboard & Admin Panels
-- 🔐 Authentication Systems
-- 🛒 E-commerce Interfaces
-- 📝 Task Management Applications
-- 🤖 AI-powered Web Applications
-- 🔗 REST API-based Applications
-
+## 💼 Project Portfolio
+- 🌐 (Live Preview):
+- 📊 (Future Forge):
+- 🔐 (GitHub Repo):
 ---
-
 ## 🧠 Problem Solving
 
 I regularly practice programming problems to improve my:
-
 - 🧩 Logical thinking
 - 🔍 Problem-solving skills
 - ⚡ JavaScript fundamentals
 - 🔷 TypeScript concepts
 - 🧠 Algorithms & Data Structures
-
 ---
 
 # 📊 GitHub Analytics
 
 ## 📋 Profile Summary
-
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu-ram&theme=tokyonight"
@@ -123,7 +108,6 @@ I regularly practice programming problems to improve my:
 </p>
 
  GitHub Analytics
-
 <div align="center">
 
 <a href="https://github.com/dipu-ram">
