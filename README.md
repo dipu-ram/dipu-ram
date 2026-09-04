@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     src="./dipucode.gif" 
-    width="80%"   
+    width="800px"   
   />
 
 <h1 align="center">Hi 👋, I'm Dipu Ram </h1>
@@ -16,28 +16,33 @@
 </p>
 
 ---
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipu-ram&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/dipu-ram?tab=followers"><img src="https://img.shields.io/github/followers/dipu-ram?style=for-the-badge&color=10B981&labelColor=0d1117&logo=github" alt="Followers" /></a>
+  <a href="https://dipu.ram"><img src="https://img.shields.io/badge/dipu.ram-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
 
-## 👨‍💻 About Me
-
-Hi! I'm **Dipu Ram**, a passionate **Full Stack Engineer** from Bangladesh 🇧🇩.
-
-- 🎓 Currently pursuing a **Computer Science & Engineering**
-- 💻 Building modern and responsive web applications
-- ⚛️ Working with **React, TypeScript, JavaScript & Tailwind CSS**
-- 🚀 Currently learning **Next.js, Node.js, Express.js & MongoDB**
-- 🧠 Passionate about **problem solving and clean UI/UX**
-- 🔨 Building projects to strengthen my **Full Stack Development** skills
-- 🌱 Continuously learning and improving my development skills
-- 🤝 Open to **collaboration, open-source projects & learning opportunities**
-- ⚡ Fun fact: I love **football ⚽** and turning ideas into web applications
+</div>
 
 ---
 
-## 🎯 Professional Objective
 
-I am a **Future Full Stack Engineer** focused on building modern, scalable, and user-friendly web applications.
+## 👨‍💻 About Me
 
-Currently, I am strengthening my skills in **React, TypeScript, Next.js, Node.js, Express.js, and MongoDB** while improving my problem-solving abilities and software development practices.
+Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧🇩.
+
+
+<p>
+ <b>Passionate Computer Science</b> & <b>Engineering student</b>, actively learning and building modern web applications with the <b>MERN Stack</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
+</p>
+</p>
+
+| Location | Status | Current Focus | Availability |
+| :---: | :---: | :---: | :---: |
+| **Dhaka, Bangladesh** | **CSE Student** | **MERN Stack & Next.js** | **Internships & Projects** |
+
+---
 
 🎯 **Goal:** Become a professional Full Stack Engineer and contribute to impactful software products.
 
@@ -145,19 +150,6 @@ I regularly practice programming problems to improve my:
     alt="GitHub Contribution Snake"
   />
 </p>
-
-## 🎓 Education
-
-** Computer Science & Engineering (CSE) **  
-
-Currently focused on:
-
-- Web Development
-- Programming
-- Software Engineering
-- Full Stack Development
-
----
 
 ## 🤝 Open to Opportunities
 
