@@ -3,17 +3,8 @@
 <p align="center">
   <img 
     src="./dipucode.gif" 
-    width="50%" 
-    
+    width="80%"   
   />
-</p>
-<p align="center">
-  <img 
-    src="" 
-    alt="Dipu Ram - Future Full Stack Engineer"
-    width="100%"
-  />
-</p>
 
 <h1 align="center">Hi 👋, I'm Dipu Ram </h1>
 
@@ -28,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Dipu Ram**, a passionate **Future Full Stack Engineer** from Bangladesh 🇧🇩.
+Hi! I'm **Dipu Ram**, a passionate **Full Stack Engineer** from Bangladesh 🇧🇩.
 
 - 🎓 Currently pursuing a **Computer Science & Engineering**
 - 💻 Building modern and responsive web applications
@@ -158,7 +149,6 @@ I regularly practice programming problems to improve my:
 ## 🎓 Education
 
 ** Computer Science & Engineering (CSE) **  
-Daffodil Institute (DIU) 🇧🇩
 
 Currently focused on:
 
@@ -188,9 +178,9 @@ Open to:
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-dipu.ram-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dipu.ram)
-[![Email](https://img.shields.io/badge/Email-hello%40dipu.ram-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipux2016@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dipux2016%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipux2016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dipu--ram--roy-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipu-ram-roy)
-[![GitHub](https://img.shields.io/badge/GitHub-dip--ram-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipu-ram)
+[![GitHub](https://img.shields.io/badge/GitHub-dipu--ram-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipu-ram)
 
 <br/>
 
