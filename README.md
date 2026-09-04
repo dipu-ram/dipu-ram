@@ -3,13 +3,13 @@
 <p align="center">
   <img 
     src="./dipucode.gif" 
-    width="100%" 
+    width="50%" 
     
   />
 </p>
 <p align="center">
   <img 
-    src="./banner/banner.png" 
+    src="" 
     alt="Dipu Ram - Future Full Stack Engineer"
     width="100%"
   />
