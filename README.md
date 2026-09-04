@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./ChatGPT%20Image%20Sep%201%2C%202026%2C%2010_20_44%20PM.png" 
+    src="./dipucode.gif" 
     width="100%" 
     
   />
