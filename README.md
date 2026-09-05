@@ -36,9 +36,30 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
 </p>
 </p>
 
-| Location | Status | Current Focus | Availability |
-| :---: | :---: | :---: | :---: |
-| **Dhaka, Bangladesh** | **CSE Student** | **MERN Stack & Next.js** | **Internships & Projects** |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Location</th>
+      <th align="center">Status</th>
+      <th align="center">Current Focus</th>
+      <th align="center">Availability</th>
+      <th align="center">Project Portfolio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Dhaka, Bangladesh</td>
+      <td align="center">CSE Student</td>
+      <td align="center">MERN Stack & Next.js</td>
+      <td align="center">Internships & Projects</td>
+      <td align="center">
+        <a href="https://github.com/dipu-ram/YourRepo" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -82,31 +103,6 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
 </p>
 
 ---
-
-
-## 💼 Project Portfolio
-<table>
-<tr>
-<td width="100%">
-🧠 <b>BrainBoost</b>
-
-A quiz-based learning platform designed to make learning interactive and engaging.
-**Technologies**
-`React` `Node.js` `Express` `MongoDB`
-<br>
-
-<a href="https://github.com/dipu-ram/BrainBoost">
-<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</td>
-<td width="100%">
-
-</td>
-</tr>
-</table>
-
----
-
 
 ## 🧠 Problem Solving
 
