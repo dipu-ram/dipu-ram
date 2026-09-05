@@ -1,5 +1,7 @@
 <!-- ======================= BANNAR======================= -->
-<h1 align="center">Hi 👋, I'm Dipu Ram </h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=header&text=Hi%20👋,%20I'm%20Dipu%20Ram&fontSize=40&animation=fadeIn" />
+</div>
 <p align="center">
   <img 
     src="./Deepfolio1.gif" 
@@ -8,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -34,32 +36,10 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
 <p>
  <b>Passionate Computer Science</b> & <b>Engineering student</b>, actively learning and building modern web applications with the <b>MERN Stack</b>. Hands-on with <b>React, Node.js, Express, MongoDB, and TypeScript</b>—bridging pixel-perfect UI/UX design with robust REST APIs, secure authentication, and scalable database architecture.
 </p>
-</p>
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Location</th>
-      <th align="center">Status</th>
-      <th align="center">Current Focus</th>
-      <th align="center">Availability</th>
-      <th align="center">Project Portfolio</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Dhaka, Bangladesh</td>
-      <td align="center">CSE Student</td>
-      <td align="center">MERN Stack & Next.js</td>
-      <td align="center">Internships & Projects</td>
-      <td align="center">
-        <a href="https://github.com/dipu-ram/YourRepo" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|🎓 Status |🎯 Current Focus |💼 Availability |📍 Location |📁 Project Portfolio |
+| :---: | :---: | :---: | :---: | :---: |
+| CSE Student | MERN Stack & Next.js | Internships & Projects | Dhaka, Bangladesh | [![View Project](https://img.shields.io/badge/View-Project-10B981?style=for-the-badge)](your_link_here) |
 
 ---
 
