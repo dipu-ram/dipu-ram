@@ -81,11 +81,15 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 ---
+
+
 ## 💼 Project Portfolio
-- 🌐 (Live Preview):
-- 📊 (Future Forge):
-- 🔐 (GitHub Repo):
+- 🌐 Live Preview:
+- 📊 Future Forge:
+- 🔐 GitHub Repo:
 ---
+
+
 ## 🧠 Problem Solving
 
 I regularly practice programming problems to improve my:
