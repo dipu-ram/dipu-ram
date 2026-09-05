@@ -3,12 +3,12 @@
 <p align="center">
   <img 
     src="./Deepfolio1.gif" 
-    width="800px"   
+    width="100%"   
   />
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -80,13 +80,31 @@ Hi! I'm **Dipu Ram**, an aspiring **Full Stack Engineer** from Bangladesh 🇧�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
 ---
 
 
 ## 💼 Project Portfolio
-- 🌐 Live Preview:
-- 📊 Future Forge:
-- 🔐 GitHub Repo:
+<table>
+<tr>
+<td width="100%">
+🧠 <b>BrainBoost</b>
+
+A quiz-based learning platform designed to make learning interactive and engaging.
+**Technologies**
+`React` `Node.js` `Express` `MongoDB`
+<br>
+
+<a href="https://github.com/dipu-ram/BrainBoost">
+<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+<td width="100%">
+
+</td>
+</tr>
+</table>
+
 ---
 
 
